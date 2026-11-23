@@ -126,7 +126,7 @@ Username: `user.dsp@polito.it`
 
 Password: `password`
 
-In the `database` folder you can find a [list](/database/passwords_databases.txt) of the users with their relative passwords.
+In the `database` folder you can find a [list](database/passwords_databases.txt) of the users with their relative passwords.
 
 ## Image Management
 
